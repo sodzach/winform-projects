@@ -1,0 +1,12 @@
+C:\Users\duy22\source\repos\play_ground\play_ground\bin\Debug\play_ground.exe.config
+C:\Users\duy22\source\repos\play_ground\play_ground\bin\Debug\play_ground.exe
+C:\Users\duy22\source\repos\play_ground\play_ground\bin\Debug\play_ground.pdb
+C:\Users\duy22\source\repos\play_ground\play_ground\obj\Debug\play_ground.csprojAssemblyReference.cache
+C:\Users\duy22\source\repos\play_ground\play_ground\obj\Debug\play_ground.Form1.resources
+C:\Users\duy22\source\repos\play_ground\play_ground\obj\Debug\play_ground.Properties.Resources.resources
+C:\Users\duy22\source\repos\play_ground\play_ground\obj\Debug\play_ground.csproj.GenerateResource.cache
+C:\Users\duy22\source\repos\play_ground\play_ground\obj\Debug\play_ground.csproj.CoreCompileInputs.cache
+C:\Users\duy22\source\repos\play_ground\play_ground\obj\Debug\play_ground.exe
+C:\Users\duy22\source\repos\play_ground\play_ground\obj\Debug\play_ground.pdb
+C:\Users\duy22\source\repos\play_ground\play_ground\obj\Debug\play_ground.formBT6.resources
+C:\Users\duy22\source\repos\play_ground\play_ground\obj\Debug\play_ground.QLPM.resources
